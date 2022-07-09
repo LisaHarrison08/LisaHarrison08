@@ -1,4 +1,6 @@
-[header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20my%20Github%20profile!%20👋&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
+
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20my%20Github%20profile!%20👋&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 
  <p align="center">I'm a Full Stack Web Developer residing within the Northern Virginia Area.</p>
 
