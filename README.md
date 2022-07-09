@@ -1,7 +1,6 @@
-<h1 align="center">Welcome to my Github profile!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<!--<h3 align="center">Full Stack Web Developer</h3>-->
+[header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20my%20Github%20profile!%20👋&fontColor=ffffff&fontSize=70&color=timeGradient&animation=twinkling&)
 
- <p align="center">My name is Lisa Harrison and I'm a Full Stack Web Developer residing within the Northern Virginia Area.</p>
+ <p align="center">I'm a Full Stack Web Developer residing within the Northern Virginia Area.</p>
 
 - 💫 I’m currently working on a few projects, including a [coffee shop website](https://github.com/LisaHarrison08/beanz) using React and a [coding group website](https://github.com/LisaHarrison08/codeCommit-React) utilising the MERN stack.
 
