@@ -2,7 +2,7 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Welcome%20to%20my%20Github%20profile!%20👋&fontColor=ffffff&fontSize=50&color=timeGradient&animation=twinkling&)
 
- <p align="center">I'm a Full Stack Web Developer residing within the Northern Virginia Area.</p>
+ <p align="center"></p>
 
 - 💫 I’m currently working on a few projects, including a [coffee shop website](https://github.com/LisaHarrison08/beanz) using React and a [coding group website](https://github.com/LisaHarrison08/codeCommit-React) utilising the MERN stack.
 
