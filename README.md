@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Lisa%20&fontColor=ffffff&fontSize=50&color=timeGradient&animation=twinkling&)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Lisa%20Harrison&fontColor=ffffff&fontSize=50&color=timeGradient&animation=twinkling&)
 
  <p align="center"></p>
 
