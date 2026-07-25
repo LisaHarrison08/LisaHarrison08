@@ -2,13 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Lisa%20Harrison&fontColor=ffffff&fontSize=50&color=timeGradient&animation=twinkling&)
 
- <p align="center"></p>
+ <h2 align="center">Software Test Engineer</h2>
 
-- 💫 I’m currently working on a few projects, including a [coffee shop website](https://github.com/LisaHarrison08/beanz) using React and a [coding group website](https://github.com/LisaHarrison08/codeCommit-React) utilising the MERN stack.
+<p align="center">
+QA Automation | Selenium | Playwright | REST Assured | SQL
+</p>
 
-- 🏍 When i’m not keyboard tapping, you’ll find me navigating the great outdoors hiking across mountains or motorcycling around them.
+<p align="center">I'm a Software Test Engineer with experience testing web, mobile, desktop, API, and integrated healthcare systems.
 
-- 👩🏻‍💻 Check out my [portfolio](https://lisa-harrison.netlify.app/)
+My work focuses on designing reliable test strategies, validating complex system integrations, and building maintainable automation frameworks that improve software quality throughout the software development lifecycle.
+
+I'm currently expanding my automation portfolio through Playwright, CI/CD, API automation, and modern Quality Engineering practices. </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
