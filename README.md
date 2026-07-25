@@ -81,14 +81,6 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 
 ### Dev Tools
 
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-
 <a href="https://maven.apache.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
 </a>
