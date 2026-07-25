@@ -40,6 +40,21 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 </a>
 </p>
 
+<h3 align="center">🧪 Test Automation</h3>
+
+<p align="center">
+
+<a href="https://www.selenium.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://playwright.dev/" target="_blank">
+<img src="https://playwright.dev/img/playwright-logo.svg" width="45" height="45"/>
+</a>
+
+</p>
+
+
 <!--
 **LisaHarrison08/LisaHarrison08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
