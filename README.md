@@ -103,9 +103,6 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
 </a>
 
-<a href="https://www.docker.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-</a>
 
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
