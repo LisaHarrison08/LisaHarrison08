@@ -41,10 +41,6 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 </a>
 
-<a href="https://www.mysql.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
@@ -58,8 +54,6 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 <a href="https://playwright.dev/">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
 </a>
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/testng.svg" width="45"/>
 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="45"/>
 
