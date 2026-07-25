@@ -55,8 +55,6 @@ Currently focused on building scalable automation frameworks with Playwright whi
 <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
 </a>
 
-<img src="https://testng.org/img/testng.png" alt="TestNG" width="45"/>
-
 </td>
 
 <td align="center" width="25%">
