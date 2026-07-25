@@ -12,7 +12,7 @@ QA Automation | Selenium | Playwright | REST Assured | SQL
 
 My work focuses on designing reliable test strategies, validating complex system integrations, and building maintainable automation frameworks that improve software quality throughout the software development lifecycle.
 
-I'm currently expanding my automation portfolio through Playwright, CI/CD, API automation, and modern Quality Engineering practices. </p>
+Currently focused on building scalable automation frameworks with Playwright while expanding my expertise in CI/CD, API automation, and AI-assisted quality engineering. </p>
 
 
 <h3 align="center">Connect with me:</h3>
@@ -55,7 +55,7 @@ I'm currently expanding my automation portfolio through Playwright, CI/CD, API a
 <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="45"/>
+<img src="https://testng.org/img/testng.png" alt="TestNG" width="45"/>
 
 </td>
 
