@@ -20,6 +20,22 @@ Currently focused on building scalable automation frameworks with Playwright whi
 <a href="https://www.linkedin.com/in/lisa-h08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starrice" height="30" width="40" /></a>
 </p>
 
+## Technical Proficiencies
+
+**Programming Languages:** Java | JavaScript | SQL | HTML | CSS
+
+**Test Automation:** Selenium WebDriver | Playwright | TestNG | JUnit | Maven
+
+**API Testing:** Postman | REST Assured
+
+**Database Testing:** SQL | JDBC | MySQL | PostgreSQL
+
+**Version Control:** Git | GitHub
+
+**Test Management:** Jira | Zephyr | Xray | Confluence
+
+**AI Tools:** Ask Sage | GitHub Copilot | ChatGPT | Tabnine
+
 ## 🛠 Tech Stack
 
 <table align="center">
