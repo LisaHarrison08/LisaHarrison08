@@ -54,6 +54,7 @@ Currently focused on building scalable automation frameworks with Playwright whi
 <a href="https://playwright.dev/">
 <img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
 </a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="45"/>
 
 </td>
 
