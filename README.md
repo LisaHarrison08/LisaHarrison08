@@ -4,9 +4,9 @@
 
  <h2 align="center">Software Test Engineer</h2>
 
-<p align="center">
+<h4 align="center">
 QA Automation | Selenium | Playwright | REST Assured | SQL
-</p>
+</h4>
 
 <p align="center">I'm a Software Test Engineer with experience testing web, mobile, desktop, API, and integrated healthcare systems.
 
